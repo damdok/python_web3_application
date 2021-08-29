@@ -1,0 +1,5 @@
+Landing page - when viewed in mobile the text is cropped out
+Vaults page - the tooltip for Hide Full Subscribed doesn't work in mobile
+
+Vaults page - in the vault expansion - Replace all that text linking to whitepaper and user guides with a link to the Docs
+Vaults page - the tooltip for Hide Full Subscribed doesn't work in mobile
